@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    ".vscode": "cpp",
+    "*.cpp": "cpp",
+    "*.md": "markdown",
+    "*.html": "html",
+    "stat.h": "c",
+    "types.h": "c"
+  }
+}
